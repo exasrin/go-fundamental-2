@@ -25,10 +25,10 @@ func main() {
 	fmt.Println("jumlah elemen \t:", len(numbers))
 
 	// array multidimensi
-	var numbers1 = [2][3]int{[3]int{1, 2, 3}, [3]int{4, 5, 6}}
+	// var numbers1 = [2][3]int{[3]int{1, 2, 3}, [3]int{4, 5, 6}}
 	var numbers2 = [2][3]int{{1, 3, 5}, {7, 9, 11}}
 
-	fmt.Println(numbers1)
+	//fmt.Println(numbers1)
 	fmt.Println(numbers2)
 
 	// looping for array
